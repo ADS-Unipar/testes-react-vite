@@ -1,0 +1,27 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Card > deve corresponder ao snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+      Título do Card
+    </h3>
+    <p
+      data-testid="text"
+    >
+      Este é o texto do card
+    </p>
+    <img
+      alt="Título do Card"
+      src="https://via.placeholder.com/150"
+    />
+    <br />
+    <button>
+      Ação 1
+    </button>
+    <button>
+      Ação 2
+    </button>
+  </div>
+</DocumentFragment>
+`;
